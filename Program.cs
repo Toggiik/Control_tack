@@ -24,7 +24,7 @@
 			int j = 0;	
 			for (int i = 0; i<array.Length; i++){
 				if (array[i].Length <= 3){ 
-					result [j] = array[i];
+					result [j] = array[i;
 					j++;	
 				}
             }    
