@@ -1,0 +1,14 @@
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\Control_tack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\Control_tack.AssemblyInfoInputs.cache
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\Control_tack.AssemblyInfo.cs
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\Control_tack.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\bin\Debug\net7.0\Control_tack.exe
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\bin\Debug\net7.0\Control_tack.deps.json
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\bin\Debug\net7.0\Control_tack.runtimeconfig.json
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\bin\Debug\net7.0\Control_tack.dll
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\bin\Debug\net7.0\Control_tack.pdb
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\Control_tack.dll
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\refint\Control_tack.dll
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\Control_tack.pdb
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\Control_tack.genruntimeconfig.cache
+C:\Users\Анатолий\Desktop\Обучение\Языки програмирования\Control_Work\Control_tack\obj\Debug\net7.0\ref\Control_tack.dll
